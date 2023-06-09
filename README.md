@@ -1,18 +1,31 @@
-## How to deploy
+# React - Calendar
+
+_This is a project that renders a calendar for a monthly view and offers the possibility to create reminders for any day ._
+
+## Starting 🚀
+
+The following instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.
+
+### Installation 🔧
 
 - Run `npm install` | `yarn install` to install all dependencies.
 - Run `npm start` | `yarn run` to run the app locally.
 - You can find the project running on `localhost:3000`.
 
-## Libraries used:
+### Testing ⚙️
+
+- Run `npm test` to execute automated tests.
+
+## Libraries used 🛠️
 
 - Dayjs: For handling dates.
 - Styled-components: For handling styles.
 - Material-Ui: For some UI components..
 - Axios: To make http requests.
-- uuid: To generate different unique random ids.
+- Uuid: To generate different unique random ids.
+- Redux: For state management.
 
-## General considerations - Functionality offered:
+## General considerations 📖
 
 ### Calendar Component
 
@@ -40,6 +53,10 @@
 - After completing the city by clicking on the search button, it searches the current weather information for that city, using an OpenWeatherMap api.
 - If a city is not completed, when clicking on the search button, the api will throw an error, and therefore the corresponding label is not updated (it is controlled with a try catch, but do not develop the logic that this is mandatory).
 
-### General
+### General Info
 
 - The view of the calendar and the PopUp to add/edit reminders adapt to different screen resolutions.
+
+## Author ✒️
+
+ - Romano, Rodrigo Ruben - Information systems engineer.
