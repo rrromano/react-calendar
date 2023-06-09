@@ -1,6 +1,6 @@
 # React - Calendar
 
-_This is a project that renders a calendar for a monthly view and offers the possibility to create reminders for any day ._
+_This is a reactJs project that renders a calendar for a monthly view and offers the possibility to create reminders for any day ._
 
 ## Starting 🚀
 
