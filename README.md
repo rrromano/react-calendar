@@ -2,19 +2,23 @@
 
 _This is a reactJs project that renders a calendar for a monthly view and offers the possibility to create reminders for any day ._
 
-## Starting 🚀
+## Starting ▶️
 
 The following instructions will allow you to get a working copy of the project on your local machine for development and testing purposes.
 
-### Installation 🔧
+### Installation ⚙️
 
 - Run `npm install` | `yarn install` to install all dependencies.
 - Run `npm start` | `yarn run` to run the app locally.
 - You can find the project running on `localhost:3000`.
 
-### Testing ⚙️
+### Testing 🧪
 
 - Run `npm test` to execute automated tests.
+
+### Deployment 🚀
+
+- Run `npm run build` to generate a ready-to-deploy version.
 
 ## Libraries used 🛠️
 
