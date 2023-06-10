@@ -24,7 +24,7 @@ The following instructions will allow you to get a working copy of the project o
 
 - Dayjs: For handling dates.
 - Styled-components: For handling styles.
-- Material-Ui: For some UI components..
+- Material-Ui: For some UI components.
 - Axios: To make http requests.
 - Uuid: To generate different unique random ids.
 - Redux: For state management.
